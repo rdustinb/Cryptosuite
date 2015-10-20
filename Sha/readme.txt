@@ -1,3 +1,9 @@
+Looks like the old repo for this was abandoned and no longer works with the Arduino IDE v1.6+ 
+
+I have implemented a few changes so it now compiles. Below is the original readme.
+
+————————
+
 SHA implements secure hash functions that can be used for cryptography, data integrity and security purposes.
 
 Sha covers the following standards:
