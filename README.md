@@ -2,7 +2,7 @@ The old repo for this was abandoned and no longer works with the Arduino IDE v1.
 
 I have implemented a few changes so it now compiles. Below is the original readme (with a bit of formatting).
 
-## 
+###Description
 
 Cryptosuite is a cryptographic library for Arduino (including SHA and HMAC-SHA).
 
