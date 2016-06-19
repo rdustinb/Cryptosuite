@@ -1,5 +1,5 @@
-#ifndef Sha1_h
-#define Sha1_h
+#ifndef __sha1_h
+#define __sha1_h
 
 #include <inttypes.h>
 #include "Print.h"

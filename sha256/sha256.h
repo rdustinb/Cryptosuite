@@ -1,5 +1,5 @@
-#ifndef Sha256_h
-#define Sha256_h
+#ifndef __sha256_h
+#define __sha256_h
 
 #include <inttypes.h>
 #include "Print.h"
